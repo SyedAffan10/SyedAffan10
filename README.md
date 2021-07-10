@@ -1,8 +1,7 @@
 ### Hey there, I'm Affan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 <div align="center">
-<p align="center">Let's connect with me!</p>
-  
+<p align="center"><h3> Let's connect with me! </h3></p>
+
   <a href="https://www.instagram.com/affan_shabbir/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -16,13 +15,13 @@
   </a>
 </div>
 <br>
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 ### A Student, Developer & Motivational Speaker <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🌱 I’m currently learning Computer Vision
 - 👯 I’m looking to collaborate on Open Source Contribution 
 
+<img align="center" alt="GIF" src="code.gif" width="500" height="320" />
 
 <div align="center">
 <p align="center"><h3> Tools & Technology 🛠 </h3></p>
