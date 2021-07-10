@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning Computer Vision
 - 👯 I’m looking to collaborate on Open Source Contribution 
 
-<img align="center" alt="GIF" src="code.gif" width="500" height="320" />
+<img align="center" alt="GIF" src="code.gif" width="800" height="400" />
 
 <div align="center">
 <p align="center"><h3> Tools & Technology 🛠 </h3></p>
@@ -29,6 +29,9 @@
 <img src="https://img.shields.io/badge/-C-purple?style=for-the-badge&logo=C&logoColor=white" />
 <img src="https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/-C%23-purple?style=for-the-badge&logo=C%23&logoColor=white" />
+<img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=HTML&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS&logoColor=white" />
+<img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/-Machine%20Learning-yellowgreen?style=for-the-badge&logo=Machine%20Learning&logoColor=white" />
 <img src="https://img.shields.io/badge/-Web%20Development-orange?style=for-the-badge&logo=Web%20Development&logoColor=orange" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
