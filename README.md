@@ -24,7 +24,7 @@
 <img align="center" alt="GIF" src="code.gif" width="800" height="400" />
 
 <p align="center">
-  <h3>⚙️ GitHub Analytics</h3>
+  <h3 align="center">⚙️ GitHub Analytics</h3>
 
 <a href="https://github.com/syedaffan10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedaffan10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
