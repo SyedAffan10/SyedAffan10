@@ -1,4 +1,4 @@
-### Hey there, I'm Affan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
+### Hey there, I'm Affan
 <div align="center">
 <p align="center"><h3> Let's connect with me! </h3></p>
 
@@ -16,7 +16,7 @@
 </div>
 <br>
 
-### A Student, Developer & Motivational Speaker <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
+### A Student, Developer & Motivational Speaker
 
 - 🌱 I’m currently learning Computer Vision
 - 👯 I’m looking to collaborate on Open Source Contribution 
