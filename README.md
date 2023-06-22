@@ -18,7 +18,8 @@
 
 ### A Student, Developer & Motivational Speaker
 
-- 🌱 I’m currently learning Computer Vision
+- 🎤 By passion I'm a public speaker
+- 🌱 By profession I’m currently working as an AI Engineer
 - 👯 I’m looking to collaborate on Open Source Contribution 
 
 <img align="center" alt="GIF" src="code.gif" width="800" height="400" />
