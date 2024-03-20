@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/-LLM-blue?style=for-the-badge&logo=LLM&logoColor=white" />
 <img src="https://img.shields.io/badge/-Computer%20Vision-purple?style=for-the-badge&logo=Computer%20Vision&logoColor=white" />
 <img src="https://img.shields.io/badge/Natural%20Language%20Processing-F05032?style=for-the-badge&logo=Natural%20Language%20Processing&logoColor=white" />
-
-<img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/-Image%20Segmentation-yellow?style=for-the-badge&logo=Image%20Segmentation&logoColor=white" />
+<img src="https://img.shields.io/badge/-Object%20Detection-orange?style=for-the-badge&logo=Object%20Detection&logoColor=orange" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
