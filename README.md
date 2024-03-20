@@ -37,9 +37,9 @@
 <p align="center"><h3> Tools & Technology 🛠 </h3></p>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 <img src="https://img.shields.io/badge/-Machine%20Learning-yellowgreen?style=for-the-badge&logo=Machine%20Learning&logoColor=white" />
-<img src="https://img.shields.io/badge/-Web%20Development-orange?style=for-the-badge&logo=Deep%20Learning&logoColor=orange" />
-<img src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=LLM&logoColor=white" />
-<img src="https://img.shields.io/badge/-CSS-purple?style=for-the-badge&logo=Computer-Vision&logoColor=white" />
+<img src="https://img.shields.io/badge/-Deep%20Learning-orange?style=for-the-badge&logo=Deep%20Learning&logoColor=orange" />
+<img src="https://img.shields.io/badge/-LLM-blue?style=for-the-badge&logo=LLM&logoColor=white" />
+<img src="https://img.shields.io/badge/-Computer%20Vision-purple?style=for-the-badge&logo=Computer%20Vision&logoColor=white" />
 
 <img src="https://img.shields.io/badge/-C-purple?style=for-the-badge&logo=C&logoColor=white" />
 <img src="https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
