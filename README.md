@@ -40,10 +40,8 @@
 <img src="https://img.shields.io/badge/-Deep%20Learning-orange?style=for-the-badge&logo=Deep%20Learning&logoColor=orange" />
 <img src="https://img.shields.io/badge/-LLM-blue?style=for-the-badge&logo=LLM&logoColor=white" />
 <img src="https://img.shields.io/badge/-Computer%20Vision-purple?style=for-the-badge&logo=Computer%20Vision&logoColor=white" />
+<img src="https://img.shields.io/badge/Natural%20Language%20Processing-F05032?style=for-the-badge&logo=Natural%20Language%20Processing&logoColor=white" />
 
-<img src="https://img.shields.io/badge/-C-purple?style=for-the-badge&logo=C&logoColor=white" />
-<img src="https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/-C%23-purple?style=for-the-badge&logo=C%23&logoColor=white" />
 <img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
