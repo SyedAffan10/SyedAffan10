@@ -1,6 +1,7 @@
 <div align="center">
 ![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello%20I%20am%20Syed%20Affan&textBg=false&animation=scaleIn&fontSize=50&section=header&fontAlignY=40)
 </div>
+
 <div align="center">
 <p align="center"><h3> Let's connect with me! </h3></p>
 
@@ -29,7 +30,8 @@
 <h3 align="center">⚙️ GitHub Analytics</h3>
 <p align="center">
 <a href="https://github.com/syedaffan10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedaffan10&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedaffan10&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedaffan10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=syedaffan10&layout=compact&langs_count=8&theme=algolia"/>
 </a>
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=syedaffan10&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
