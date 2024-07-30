@@ -1,5 +1,7 @@
 <div align="center">
+  
 ![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello%20I%20am%20Syed%20Affan&textBg=false&animation=scaleIn&fontSize=50&section=header&fontAlignY=40)
+
 </div>
 
 <div align="center">
@@ -50,5 +52,7 @@
 </div>
 
 <div align="center">
+  
 ![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=YES,%20I%20Build%20Things%20For%20The%20AI.&textBg=false&animation=scaleIn&fontSize=30&section=footer&fontAlignY=70)
+
 </div>
