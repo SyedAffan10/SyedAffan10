@@ -3,8 +3,6 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello%20I%20am%20Syed%20Affan&textBg=false&animation=scaleIn&fontSize=50&section=header&fontAlignY=40)
 
 </div>
-
-<div align="center">
   
 <div align="center">
 <p align="center"><h3> Let's connect with me! </h3></p>
@@ -52,3 +50,16 @@
 <img src="https://img.shields.io/badge/-Object%20Detection-orange?style=for-the-badge&logo=Object%20Detection&logoColor=orange" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-yellowgreen?style=for-the-badge&logo=Machine%20Learning&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/-Deep%20Learning-orange?style=for-the-badge&logo=Deep%20Learning&logoColor=orange" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/-LLM-blue?style=for-the-badge&logo=LLM&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/-Computer%20Vision-purple?style=for-the-badge&logo=Computer%20Vision&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-F05032?style=for-the-badge&logo=Natural%20Language%20Processing&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/-Image%20Segmentation-yellow?style=for-the-badge&logo=Image%20Segmentation&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/-Object%20Detection-orange?style=for-the-badge&logo=Object%20Detection&logoColor=orange" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="margin: 5px;" />
+</div>
+
