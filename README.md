@@ -1,6 +1,6 @@
 <div align="center">
   
-![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello%20I%20am%20Syed%20Affan&textBg=false&animation=scaleIn&fontSize=50&section=header&fontAlignY=40)
+![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello%20I'm%20Syed%20Affan&textBg=false&animation=scaleIn&fontSize=50&section=header&fontAlignY=40)
 
 </div>
 
