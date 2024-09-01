@@ -20,7 +20,7 @@
   </a>
 
   <a href="https://syedaffan10.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-%23E4405F?style=for-the-badge&logo=undertale" />
+    <img src="https://img.shields.io/badge/Portfolio-%23E71D29?style=for-the-badge&logo=undertale" />
   </a>
 </div>
 <br>
