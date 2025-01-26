@@ -40,7 +40,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=syedaffan10&layout=compact&langs_count=8&theme=algolia"/>
   </a>
   <a href="https://github.com/syedaffan10">
-    <img width="90%" src="https://nirzak-streak-stats.vercel.app?user=syedaffan10&theme=dark"/>
+    <img src="https://nirzak-streak-stats.vercel.app?user=syedaffan10&theme=dark"/>
   </a>
 </div>
 
