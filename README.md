@@ -39,9 +39,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedaffan10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=syedaffan10&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-<a href="https://github.com/syedaffan10">
-  <img width="90%" src="https://streak-stats.demolab.com/?user=syedaffan10&theme=dark" />
-</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=syedaffan10&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 <div align="center">
