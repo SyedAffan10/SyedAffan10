@@ -101,6 +101,13 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
+### 🏆 GitHub Profile Trophy  
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SyedAffan10&column=7&hide=PullRequest"/>
+  </a>
+</div>
+
 <div align="center">
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Yes,%20I%20Build%20Things%20For%20AI.&textBg=false&animation=scaleIn&fontSize=30&section=footer&fontAlignY=70)
