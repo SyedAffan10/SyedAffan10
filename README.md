@@ -35,13 +35,13 @@
 
 ### ⚙️ GitHub Analytics
 <div align="center">
-  <a href="https://github.com/syedaffan10">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedaffan10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=syedaffan10&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/SyedAffan10">
+    <img height="180em" src="https://github-readme-stats-pearl-theta-91.vercel.app/api/top-langs?username=SyedAffan10&theme=tokyonight&layout=compact&show_icons=true&locale=en&&hide=GLSL,ShaderLab,ASP.NET,HLSL"/>
+    <img height="180em" src="https://github-readme-stats-pearl-theta-91.vercel.app/api?username=SyedAffan10&theme=tokyonight&count_private=true&show_icons=true&locale=en"/>
   </a>
   <br/>
   <a href="https://github.com/syedaffan10">
-    <img src="https://nirzak-streak-stats.vercel.app?user=syedaffan10&theme=algolia"/>
+    <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedAffan10&theme=tokyonight">
   </a>
 </div>
 
