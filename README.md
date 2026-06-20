@@ -16,6 +16,9 @@
   <a href="https://syedaffan.dev/">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
+  <a href="https://x.com/SyedAffan0">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
   <a href="https://www.facebook.com/affan08/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
@@ -26,7 +29,7 @@
 
 ### About
 
-I build practical AI systems with a focus on production-ready workflows, clear architecture, and measurable impact. My work spans generative AI, NLP, computer vision, and scalable service design, with growing interest in agentic workflows and modern LLM orchestration.
+I build practical AI systems with a focus on production-ready workflows, clear architecture, and measurable impact. My work spans generative AI, NLP, computer vision, and scalable service design, with a strong focus on agentic workflows and modern LLM orchestration.
 
 I also enjoy public speaking, community building, and collaborating on open-source AI projects.
 
@@ -34,12 +37,48 @@ I also enjoy public speaking, community building, and collaborating on open-sour
   <img align="center" alt="Coding illustration" src="code.gif" width="800" height="350" />
 </div>
 
-### Current Focus
+---
 
-- Designing agentic AI workflows and LLM pipelines
-- Building FastAPI-based backends for AI products
-- Working with RAG, structured outputs, and tool-using assistants
-- Deploying and maintaining ML services with Docker and cloud platforms
+### Experience
+
+**AI Engineer (Working Student)** — EDR Software GmbH, Munich, Germany *(Oct 2025 – Present)*<br>
+→ Built multi-tenant RAG chatbots integrating Confluence, Jira & internal knowledge bases<br>
+→ Built an LLM-powered defect classification system from image-based inputs
+
+**AI Engineer** — Lilia AI, USA (Remote) *(Mar 2025 – Oct 2025)*<br>
+→ Built a multi-agent medical imaging pipeline — 92% diagnostic accuracy, 60% less review time<br>
+→ Delivered explainable Grad-CAM diagnostics; deployed HIPAA-compliant containerized systems
+
+**AI Engineer** — HNH Soft Tech Solutions, Pakistan *(Mar 2023 – Mar 2025)*<br>
+→ Built a RAG virtual assistant serving 100K+ contextual queries in production<br>
+→ Cancer segmentation pipeline (92% Dice Score); MLflow CI/CD cut deploys from 6 weeks to 7 days
+
+**AI Engineer** — Digital Landscape, Pakistan *(Nov 2021 – Feb 2023)*<br>
+→ Fine-tuned YOLOv5 object detection; fraud detection with IBM Granite LLMs<br>
+→ Real-time ASL gesture recognition system (98% accuracy)
+
+---
+
+### Education
+
+**M.Sc. Artificial Intelligence**<br>
+→ Friedrich-Alexander-Universität Erlangen–Nürnberg (FAU), Germany *(Apr 2025 – Apr 2027, Expected)*
+
+**B.Sc. Computer Science**<br>
+→ Sir Syed University of Engineering & Technology, Pakistan *(Jan 2020 – Apr 2024)*<br>
+→ Graduated with Distinction (Top 1%, Valedictorian)
+
+---
+
+### Certifications
+
+- **Microsoft Certified — Azure AI Fundamentals** · [View](https://www.credly.com/badges/05957212-ec85-4e7c-8389-3eb24d94eef6/public_url)
+- **Google Cloud — Generative AI Leader** · [View](https://www.credly.com/badges/d000b96e-4717-433d-8547-49905bb55095/public_url)
+- **Google Cloud — MLOps for Generative AI** · [View](https://www.cloudskillsboost.google/public_profiles/cb728b45-a296-4eac-b76b-16eb40f25361/badges/18852892)
+- [Machine Learning with Python](https://www.credly.com/badges/60605069-c503-47e0-8635-3aa5826c1088/public_url) · [Deep Learning with TensorFlow](https://www.credly.com/badges/a4923e63-6d73-4dc1-a840-7d2d12a6d60c/public_url) · [Deep Learning Essentials (Keras)](https://www.credly.com/badges/ee99b5d8-c642-4f96-a367-4d5aa4a93045/public_url)
+- [Computer Vision & Image Processing](https://www.credly.com/badges/9661e044-e443-49ac-87a6-a3ce33114386/public_url) · [Chatbot Building Essentials](https://www.credly.com/badges/1b4a1f3e-bf65-4d4d-91f3-99e668239cd1/public_url)
+
+---
 
 ### GitHub Analytics
 
@@ -50,9 +89,11 @@ I also enjoy public speaking, community building, and collaborating on open-sour
   </a>
   <br />
   <a href="https://github.com/syedaffan10">
-    <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedAffan10&theme=tokyonight" />
+    <img alt="Streak" src="https://streak-stats.demolab.com/?user=SyedAffan10&theme=tokyonight" />
   </a>
 </div>
+
+---
 
 ### Tools & Technologies
 
@@ -147,6 +188,7 @@ I also enjoy public speaking, community building, and collaborating on open-sour
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
+
 
 <div align="center">
 
