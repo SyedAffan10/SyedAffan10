@@ -84,8 +84,8 @@ I also enjoy public speaking, community building, and collaborating on open-sour
 
 <div align="center">
   <a href="https://github.com/SyedAffan10">
-    <img height="180em" src="https://github-readme-stats-pearl-theta-91.vercel.app/api/top-langs?username=SyedAffan10&theme=tokyonight&layout=compact&show_icons=true&locale=en&&hide=GLSL,ShaderLab,ASP.NET,HLSL" />
-    <img height="180em" src="https://github-readme-stats-pearl-theta-91.vercel.app/api?username=SyedAffan10&theme=tokyonight&count_private=true&show_icons=true&locale=en" />
+      <img height="180em" src="https://github-readme-stats-bay-xi-14.vercel.app/api/top-langs?username=SyedAffan10&theme=tokyonight&layout=compact&show_icons=true&locale=en&hide=GLSL,ShaderLab,ASP.NET,HLSL" />
+      <img height="180em" src="https://github-readme-stats-bay-xi-14.vercel.app/api?username=SyedAffan10&theme=tokyonight&count_private=true&show_icons=true&locale=en" />
   </a>
   <br />
   <a href="https://github.com/syedaffan10">
